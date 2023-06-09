@@ -1,2 +1,2 @@
 # CIT281-p1
-project 1
+project 1 description
